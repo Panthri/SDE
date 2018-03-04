@@ -15,17 +15,17 @@
   <!-- Web Fonts -->
   <link href="http://fonts.googleapis.com/css?family=Roboto:400,300,500,700" rel="stylesheet" type="text/css">
 	<!-- Bootstrap core CSS -->
-	<link href="assets/bootstrap/css/bootstrap.min.css" rel="stylesheet" media="screen">
+	<link href="http://santoshb.me/assets/bootstrap/css/bootstrap.min.css" rel="stylesheet" media="screen">
 	<!-- Font Awesome CSS -->
-	<link href="assets/css/font-awesome.min.css" rel="stylesheet" media="screen">
+	<link href="http://santoshb.me/assets/css/font-awesome.min.css" rel="stylesheet" media="screen">
 	<!-- Animate css -->
-  <link href="assets/css/animate.css" rel="stylesheet">
+  <link href="http://santoshb.me/assets/css/animate.css" rel="stylesheet">
   <!-- Magnific css -->
-	<link href="assets/css/magnific-popup.css" rel="stylesheet">
+	<link href="http://santoshb.me/assets/css/magnific-popup.css" rel="stylesheet">
 	<!-- Custom styles CSS -->
-	<link href="assets/css/style.css" rel="stylesheet" media="screen">
+	<link href="http://santoshb.me/assets/css/style.css" rel="stylesheet" media="screen">
   <!-- Responsive CSS -->
-  <link href="assets/css/responsive.css" rel="stylesheet">
+  <link href="http://santoshb.me/assets/css/responsive.css" rel="stylesheet">
 
   <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
   <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -33,11 +33,11 @@
       <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
       <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
   <![endif]-->
-  <link rel="shortcut icon" href="assets/images/ico/favicon.png">
-  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="assets/images/ico/apple-touch-icon-144-precomposed.png">
-  <link rel="apple-touch-icon-precomposed" sizes="114x114" href="assets/images/ico/apple-touch-icon-114-precomposed.png">
-  <link rel="apple-touch-icon-precomposed" sizes="72x72" href="assets/images/ico/apple-touch-icon-72-precomposed.png">
-  <link rel="apple-touch-icon-precomposed" href="assets/images/ico/apple-touch-icon-57-precomposed.png">
+  <link rel="shortcut icon" href="http://santoshb.me/assets/images/ico/favicon.png">
+  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://santoshb.me/assets/images/ico/apple-touch-icon-144-precomposed.png">
+  <link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://santoshb.me/assets/images/ico/apple-touch-icon-114-precomposed.png">
+  <link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://santoshb.me/assets/images/ico/apple-touch-icon-72-precomposed.png">
+  <link rel="apple-touch-icon-precomposed" href="http://santoshb.me/assets/images/ico/apple-touch-icon-57-precomposed.png">
 
 </head>
 
@@ -115,7 +115,7 @@
           <div class="col-md-4 col-md-push-8">
             <div class="biography">
               <div class="myphoto">
-                <img src="assets/images/myphoto.jpg" alt="">
+                <img src="http://santoshb.me/assets/images/myphoto.jpg" alt="">
               </div>
               <ul>
                 <li><strong>Name:</strong> Anant Panthri</li>
@@ -152,12 +152,12 @@
             </div>
 
             <div class="my-signature">
-              <img src="assets/images/signature.gif" alt="">
+              <img src="http://santoshb.me/assets/images/signature.gif" alt="">
             </div>
 
             <div class="download-button">
               <a class="btn btn-info btn-lg" href="#contact"><i class="fa fa-paper-plane"></i>Send me message</a>
-              <a class="btn btn-primary btn-lg" href="assets/resume/Santosh_bidve_resume.pdf"><i class="fa fa-download"></i>download my cv</a>
+              <a class="btn btn-primary btn-lg" href="http://santoshb.me/assets/resume/Santosh_bidve_resume.pdf"><i class="fa fa-download"></i>download my cv</a>
             </div>
           </div>
 
@@ -506,10 +506,10 @@
                 <div class="portfolio">
                   <div class="tt-overlay"></div>
                   <div class="links">
-                    <a class="image-link" href="assets/images/fitness.jpg"><i class="fa fa-search-plus"></i></a>
+                    <a class="image-link" href="http://santoshb.me/assets/images/fitness.jpg"><i class="fa fa-search-plus"></i></a>
                     <a target="_blank" href="https://github.com/santosh719/HumanActivityRecognition"><i class="fa fa-link"></i></a>
                   </div><!-- /.links -->
-                  <img src="assets/images/fitness.jpg" alt="image">
+                  <img src="http://santoshb.me/assets/images/fitness.jpg" alt="image">
                   <div class="portfolio-info">
                     <h3>Human Activity Recognition <br> using ML</h3>
                   </div><!-- /.portfolio-info -->
@@ -523,10 +523,10 @@
                 <div class="portfolio">
                   <div class="tt-overlay"></div>
                   <div class="links">
-                    <a class="image-link" href="assets/images/levelup.jpg"><i class="fa fa-search-plus"></i></a>
+                    <a class="image-link" href="http://santoshb.me/assets/images/levelup.jpg"><i class="fa fa-search-plus"></i></a>
                     <a target="_blank" href="https://mohseenrm.github.io/LevelUpAndroid/"><i class="fa fa-link"></i></a>
                   </div><!-- /.links -->
-                  <img src="assets/images/level_up_main.jpg" alt="image" >
+                  <img src="http://santoshb.me/assets/images/level_up_main.jpg" alt="image" >
                   <div class="portfolio-info">
                     <h3>Level Up</h3>
                   </div><!-- /.portfolio-info -->
@@ -538,10 +538,10 @@
                       <div class="portfolio">
                           <div class="tt-overlay"></div>
                           <div class="links">
-                              <a class="image-link" href="assets/images/2014-05-06-socialmedia.jpg" title="This image is just as reference. It does not resemble to the original project"><i class="fa fa-search-plus"></i></a>
+                              <a class="image-link" href="http://santoshb.me/assets/images/2014-05-06-socialmedia.jpg" title="This image is just as reference. It does not resemble to the original project"><i class="fa fa-search-plus"></i></a>
                               <a href="#"><i class="fa fa-link"></i></a>
                           </div><!-- /.links -->
-                          <img src="assets/images/2014-05-06-socialmedia1000x750.jpg" alt="image" title="This image is just as reference. It does not resemble to the original project">
+                          <img src="http://santoshb.me/assets/images/2014-05-06-socialmedia1000x750.jpg" alt="image" title="This image is just as reference. It does not resemble to the original project">
                           <div class="portfolio-info">
                               <h3>Integration of Social Networking Sites</h3>
                           </div><!-- /.portfolio-info -->
@@ -553,10 +553,10 @@
                 <div class="portfolio">
                   <div class="tt-overlay"></div>
                   <div class="links">
-                    <a class="image-link" href="assets/images/amazon-tap-bluetooth-alexa-speaker-_-_1.0.jpg" title="This image is just as reference. It does not resemble to the original project"><i class="fa fa-search-plus"></i></a>
+                    <a class="image-link" href="http://santoshb.me/assets/images/amazon-tap-bluetooth-alexa-speaker-_-_1.0.jpg" title="This image is just as reference. It does not resemble to the original project"><i class="fa fa-search-plus"></i></a>
                     <a href="#"><i class="fa fa-link"></i></a>
                   </div><!-- /.links -->
-                  <img src="assets/images/amazon-echo1600x1200.jpg" title="This image is just as reference. It does not resemble to the original project" alt="image">
+                  <img src="http://santoshb.me/assets/images/amazon-echo1600x1200.jpg" title="This image is just as reference. It does not resemble to the original project" alt="image">
                   <div class="portfolio-info">
                     <h3>Elixir - Alexa Skill</h3>
                   </div><!-- /.portfolio-info -->
@@ -568,10 +568,10 @@
                 <div class="portfolio">
                   <div class="tt-overlay"></div>
                   <div class="links">
-                    <a target="_blank" class="image-link" href="assets/images/Computer-Systems.jpg"><i class="fa fa-search-plus"></i></a>
+                    <a target="_blank" class="image-link" href="http://santoshb.me/assets/images/Computer-Systems.jpg"><i class="fa fa-search-plus"></i></a>
                     <a target="_blank" href="https://github.com/santosh719/Wireless-Intrusion-Detection-System-WIDS-"><i class="fa fa-link"></i></a>
                   </div><!-- /.links -->
-                  <img src="assets/images/Computer-Systems.jpg" alt="image" >
+                  <img src="http://santoshb.me/assets/images/Computer-Systems.jpg" alt="image" >
                   <div class="portfolio-info">
                     <h3>Wireless IDS</h3>
                   </div><!-- /.portfolio-info -->
@@ -583,10 +583,10 @@
                 <div class="portfolio">
                   <div class="tt-overlay"></div>
                   <div class="links">
-                    <a class="image-link" href="assets/images/BigData%20(1).jpg"><i class="fa fa-search-plus"></i></a>
+                    <a class="image-link" href="http://santoshb.me/assets/images/BigData%20(1).jpg"><i class="fa fa-search-plus"></i></a>
                     <a target="_blank" href="https://github.com/santosh719/Hadoop-MapReduce-on-Private-Cloud-Environment"><i class="fa fa-link"></i></a>
                   </div><!-- /.links -->
-                  <img src="assets/images/bigdata800x600.jpg" alt="image">
+                  <img src="http://santoshb.me/assets/images/bigdata800x600.jpg" alt="image">
                   <div class="portfolio-info">
                     <h3>Hadoop MapReduce</h3>
                   </div><!-- /.portfolio-info -->
@@ -598,10 +598,10 @@
                 <div class="portfolio">
                   <div class="tt-overlay"></div>
                   <div class="links">
-                    <a class="image-link" href="assets/images/elixir.jpg"><i class="fa fa-search-plus"></i></a>
+                    <a class="image-link" href="http://santoshb.me/assets/images/elixir.jpg"><i class="fa fa-search-plus"></i></a>
                     <a target="_blank" href="https://github.com/santosh719/Elixir-Progressive-Web-App"><i class="fa fa-link"></i></a>
                   </div><!-- /.links -->
-                  <img src="assets/images/elixir1000x750.jpg" alt="image">
+                  <img src="http://santoshb.me/assets/images/elixir1000x750.jpg" alt="image">
                   <div class="portfolio-info">
                     <h3>Elixir - Progressive Web App</h3>
                   </div><!-- /.portfolio-info -->
@@ -613,10 +613,10 @@
                 <div class="portfolio">
                   <div class="tt-overlay"></div>
                   <div class="links">
-                    <a class="image-link" href="assets/images/maxresdefault.jpg"><i class="fa fa-search-plus"></i></a>
+                    <a class="image-link" href="http://santoshb.me/assets/images/maxresdefault.jpg"><i class="fa fa-search-plus"></i></a>
                     <a target="_blank" href="https://github.com/santosh719/react-fundamental"><i class="fa fa-link"></i></a>
                   </div><!-- /.links -->
-                  <img src="assets/images/react800x600.jpg" alt="image">
+                  <img src="http://santoshb.me/assets/images/react800x600.jpg" alt="image">
                   <div class="portfolio-info">
                     <h3 style="text-transform: capitalize">Github Battle(React app)</h3>
                   </div><!-- /.portfolio-info -->
@@ -934,20 +934,21 @@
 	</div>
 
 	<!-- Javascript files -->
-	<script src="assets/js/jquery.js"></script>
-	<script src="assets/bootstrap/js/bootstrap.min.js"></script>
-  <script src="assets/js/jquery.stellar.min.js"></script>
-	<script src="assets/js/jquery.sticky.js"></script>
-  <script src="assets/js/smoothscroll.js"></script>
-	<script src="assets/js/wow.min.js"></script>
-  <script src="assets/js/jquery.countTo.js"></script>
-  <script src="assets/js/jquery.inview.min.js"></script>
-  <script src="assets/js/jquery.easypiechart.js"></script>
-  <script src="assets/js/jquery.shuffle.min.js"></script>
-  <script src="assets/js/jquery.magnific-popup.min.js"></script>
+	<script src="http://santoshb.me/assets/js/jquery.js"></script>
+	<script src="http://santoshb.me/assets/bootstrap/js/bootstrap.min.js"></script>
+  <script src="http://santoshb.me/assets/js/jquery.stellar.min.js"></script>
+	<script src="http://santoshb.me/assets/js/jquery.sticky.js"></script>
+  <script src="http://santoshb.me/assets/js/smoothscroll.js"></script>
+	<script src="http://santoshb.me/assets/js/wow.min.js"></script>
+  <script src="http://santoshb.me/assets/js/jquery.countTo.js"></script>
+  <script src="http://santoshb.me/assets/js/jquery.inview.min.js"></script>
+  <script src="http://santoshb.me/assets/js/jquery.easypiechart.js"></script>
+  <script src="http://santoshb.me/assets/js/jquery.shuffle.min.js"></script>
+  <script src="http://santoshb.me/assets/js/jquery.magnific-popup.min.js"></script>
   <!--<script src="http://a.vimeocdn.com/js/froogaloop2.min.js"></script>-->
-  <script src="assets/js/jquery.fitvids.js"></script>
+  <script src="http://santoshb.me/assets/js/jquery.fitvids.js"></script>
   <script src="https://maps.googleapis.com/maps/api/js?v=3.exp&amp;sensor=false&amp;key=AIzaSyBHVQRv7SExIX_55ltBzTRnoduADWnTmMI"></script>
+  <script src="http://santoshb.me/assets/js/scripts.js"></script>
    
 </body>
 </html>
