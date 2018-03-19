@@ -1588,3 +1588,36 @@ a, #contact-section li a i:hover,
     font-style: normal;
 
 }
+/*graph styling*/
+svg {
+  cursor: crosshair;
+  display: block;
+  margin:auto;
+  border: 1px solid #eee;
+}
+
+.edge {
+  stroke: #888;
+  stroke-width:2px;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  cursor: default;
+}
+
+.edge:hover, .dragLine {
+  stroke: #333;
+  stroke-width: 3px;
+}
+
+.vertex {
+  cursor: pointer;
+}
+
+.vertex:hover {
+  stroke: #333;
+  opacity: 0.8;
+}
+
+.dragLine.hidden {
+	stroke-width:0;
+}
