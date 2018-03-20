@@ -59,8 +59,8 @@ nodes.forEach(function(d, i){
 
 var svg = d3.select("#svg-wrap")
             .append("svg")
-            .attr("width", 100)
-            .attr("height", 100);
+            .attr("width", w)
+            .attr("height", h);
 
 var dragLine = svg.append("path")
 									.attr("class", "dragLine hidden")
