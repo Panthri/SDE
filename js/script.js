@@ -49,8 +49,8 @@ var links = [
 ];
 
 var lastNodeId = nodes.length;
-var w = 700,
-    h = 500,
+var w = 200,
+    h = 250,
     rad = 10;
 
 nodes.forEach(function(d, i){
