@@ -59,8 +59,8 @@ nodes.forEach(function(d, i){
 
 var svg = d3.select("#svg-wrap")
             .append("svg")
-            .attr("width", w)
-            .attr("height", h);
+            .attr("width", 100)
+            .attr("height", 100);
 
 var dragLine = svg.append("path")
 									.attr("class", "dragLine hidden")
@@ -152,13 +152,13 @@ function beginDragLine(d){
 	if(d3.event.ctrlKey || d3.event.button!=0) return;
 	mousedownNode = d;
 	dragLine.classed("hidden", false)
-					.attr("d", "M" + mousedownNode.x + "," + mousedownNode.y + 
+					.attr("d", "M" + mousedownNode.x + "," + mousedownNode.y +
 						"L" + mousedownNode.x + "," + mousedownNode.y);
 }
 
 function updateDragLine(){
 	if(!mousedownNode) return;
-	dragLine.attr("d", "M" + mousedownNode.x + "," + mousedownNode.y + 
+	dragLine.attr("d", "M" + mousedownNode.x + "," + mousedownNode.y +
 									"L" + d3.mouse(this)[0] + "," + d3.mouse(this)[1]);
 }
 
