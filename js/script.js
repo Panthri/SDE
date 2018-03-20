@@ -49,7 +49,7 @@ var links = [
 ];
 
 var lastNodeId = nodes.length;
-var w = 200,
+var w = 500,
     h = 250,
     rad = 10;
 
