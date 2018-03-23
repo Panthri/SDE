@@ -86,7 +86,7 @@ var force = d3.layout.force()
             .on("tick",tick)
             .start();
 
-var colors = d3.scale.category10();
+var colors = d3.scale.category20();
 
 var mousedownNode = null, mouseupNode = null;
 
