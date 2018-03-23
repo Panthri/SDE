@@ -1593,7 +1593,6 @@ svg {
   cursor: crosshair;
   display: block;
   margin:auto;
-  border: 1px solid #eee;
 }
 
 .edge {
