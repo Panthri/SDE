@@ -253,7 +253,7 @@ a:focus, button:focus, .btn:focus,
 }
 
 #navigation .navbar-nav>li:last-child {
-    background-color: #87c05e;
+    background-color: #000000;
 }
 
 #navigation .navbar-nav>li .social {
