@@ -67,10 +67,12 @@ var dragLine = svg.append("path")
 									.attr("d", "M0,-5L10,0L0,5");
 
 var edges = svg.append("g")
-								.selectAll(".edge");
+								.selectAll(".edge")
+                 .attr('orient', 'auto');
 
 var vertices = svg.append("g")
-									.selectAll(".vertex");
+									.selectAll(".vertex")
+                   .attr('orient', 'auto');
 
 var force = d3.layout.force()
             .nodes(nodes)
