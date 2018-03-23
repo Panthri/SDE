@@ -49,7 +49,7 @@ var links = [
 ];
 
 var lastNodeId = nodes.length;
-var w = 1500,
+var w = 750,
     h = 250,
     rad = 10;
 
@@ -81,7 +81,7 @@ var force = d3.layout.force()
             .linkDistance(60)
             .linkStrength(0.9)
             .charge(-500)
-            .chargeDistance((w+h)/3)
+            .chargeDistance((w+h)/2)
             .gravity(0.12)
             .on("tick",tick)
             .start();
