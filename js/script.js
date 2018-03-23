@@ -64,7 +64,7 @@ var svg = d3.select("#svg-wrap")
 
 var dragLine = svg.append("path")
 									.attr("class", "dragLine hidden")
-									.attr("d", "M0,0L0,0");
+									.attr("d", "M0,-5L10,0L0,5");
 
 var edges = svg.append("g")
 								.selectAll(".edge");
